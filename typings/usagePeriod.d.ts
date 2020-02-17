@@ -1,5 +1,4 @@
-import { MetaSys, MetaSysProps } from "./meta";
-import { DefaultElements } from "./defaultElements";
+import { MetaSys, MetaSysProps } from './meta'
 
 export interface UsagePeriodProps {
     startDate: string,
